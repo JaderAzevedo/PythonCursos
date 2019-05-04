@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "fundamentos_projetos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\jader\\.platformio\\penv\\Scripts;C:\\Users\\jader\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;D:\\Coding\\Programs\\Anaconda3;D:\\Coding\\Programs\\Anaconda3\\Library\\mingw-w64\\bin;D:\\Coding\\Programs\\Anaconda3\\Library\\usr\\bin;D:\\Coding\\Programs\\Anaconda3\\Library\\bin;D:\\Coding\\Programs\\Anaconda3\\Scripts;D:\\Coding\\Programs\\Python\\Python37\\Scripts\\;D:\\Coding\\Programs\\Python\\Python37\\;C:\\Users\\jader\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\jader\\AppData\\Local\\Microsoft\\WindowsApps;D:\\Coding\\Programs\\Microsoft VS Code\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;D:\\Coding\\Programs\\Anaconda3;D:\\Coding\\Programs\\Anaconda3\\Library\\mingw-w64\\bin;D:\\Coding\\Programs\\Anaconda3\\Library\\usr\\bin;D:\\Coding\\Programs\\Anaconda3\\Library\\bin;D:\\Coding\\Programs\\Anaconda3\\Scripts;D:\\Coding\\Programs\\Python\\Python37\\Scripts\\;D:\\Coding\\Programs\\Python\\Python37\\;C:\\Users\\jader\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\jader\\AppData\\Local\\Microsoft\\WindowsApps;D:\\Coding\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}

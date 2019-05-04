@@ -1,0 +1,2 @@
+
+print(next(cores))

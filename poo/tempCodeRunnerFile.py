@@ -1,0 +1,2 @@
+
+    mercado.add('Frutas secas')
